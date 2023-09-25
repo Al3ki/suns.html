@@ -2,5 +2,5 @@ function TocaSomPom (){
     document.querySelector('#som_tecla_pom').play();
 }
 
-document.querySelector('.tecla_pom').onclik = TocaSomPon;
+document.querySelector('.tecla_pom').onclik = TocaSomPom;
 
