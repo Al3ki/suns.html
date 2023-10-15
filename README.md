@@ -1,2 +1,2 @@
-# suns.html
+# suns
 '-'
